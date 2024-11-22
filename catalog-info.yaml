@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cypress-realworld-app
+  annotations:
+    github.com/project-slug: ahmet-cagan-snkeos/cypress-realworld-app
+spec:
+  type: other
+  lifecycle: unknown
